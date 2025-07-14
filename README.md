@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantha-v-v&show_icons=true&locale=en&layout=compact" alt="vedantha-v-v" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantha-v-v&show_icons=true&locale=en" alt="vedantha-v-v" /></p>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6871186edae46688ec1481de?variant=dark)](https://roadmap.sh)
