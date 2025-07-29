@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Art To Cart**
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://vedantha-portfolio.netlify.app/](https://vedantha-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vedantha-portfolio.vercel.app/](https://vedantha-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantha-v-v&show_icons=true&locale=en&layout=compact" alt="vedantha-v-v" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantha-v-v&show_icons=true&locale=en" alt="vedantha-v-v" /></p>
-
-[![roadmap.sh](https://roadmap.sh/card/tall/6871186edae46688ec1481de?variant=dark)](https://roadmap.sh)
