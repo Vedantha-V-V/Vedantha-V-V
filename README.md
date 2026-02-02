@@ -32,10 +32,8 @@
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
-<br>
 
 <h3 align="left">Projects</h3>
-
 <p align="left"><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/9cefb5d8-6e37-4e7b-a8e5-7f93a7a712b1" />  
   <b><a href="https://github.com/Vedantha-V-V/artisanal-marketplace">Art To Cart</a></b> - Artisanal Marketplace</p>
 <p align="left"><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/ffa4f3af-fa3d-4809-8612-c8ba06b8ba89" />  
