@@ -36,6 +36,8 @@
   <img alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </p>
 
+## Projects
+
 <h3 align="left">Projects</h3>
 <p align="left"><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/9cefb5d8-6e37-4e7b-a8e5-7f93a7a712b1" />  
   <b><a href="https://github.com/Vedantha-V-V/artisanal-marketplace">Art To Cart</a></b> - Artisanal Marketplace</p>
