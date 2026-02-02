@@ -5,16 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantha-v-v&label=Profile%20views&color=0e75b6&style=flat" alt="vedantha-v-v" /> </p>
 
-- 🔭 I’m currently working on **Art To Cart**
+- 🔭 I’m currently working on **AgroEye**
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://vedantha-portfolio.vercel.app/](https://vedantha-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Vedantha's Portfolio](https://vedantha-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vedanthavernekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedantha vernekar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gdeqCRhS4q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedantha vernekar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vedanthavernekar" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.leetcode.com/vedantha_vernekar" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" target="_blank"></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,7 +31,6 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantha-v-v&show_icons=true&locale=en&layout=compact" alt="vedantha-v-v" /></p>
