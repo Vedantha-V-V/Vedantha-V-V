@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
-<h1 align="center">Hi 👋, I'm Vedantha Vinay Vernekar</h1>
+<h1 align="center">Hi, I'm Vedantha Vinay Vernekar</h1>
 <h3 align="center">Aspiring Data Scientist, Future Web Developer and Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWE5ZDg0M3F0b3B1NWIxYXl6N2ExYXhwem42eDZkODJnOHJwMTA4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 
@@ -32,3 +32,19 @@
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
+<br>
+
+## Projects
+
+- <p><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/9cefb5d8-6e37-4e7b-a8e5-7f93a7a712b1" />  
+  <b><a href="https://github.com/Vedantha-V-V/artisanal-marketplace">Art To Cart</a></b> - Artisanal Marketplace</p>
+- <p><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/ffa4f3af-fa3d-4809-8612-c8ba06b8ba89" />  
+  <b><a href="https://github.com/Vedantha-V-V/artisanal-marketplace">Debugzilla</a></b> - AI code reviewer</p>
+- <p><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/33ef2b2f-9b08-415b-8f92-6f17b34e7a8d" />  
+  <b><a href="https://github.com/Vedantha-V-V/artisanal-marketplace">Movie Application</a></b> - Fullstack movie recommendation website</p>
+- <p><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/c0932dd8-f71c-430a-95d1-3f31704ef3c2" />  
+  <b><a href="https://github.com/Vedantha-V-V/agriAssist">AgriAssist</a></b> - AI Farmer Advisory Application</p>
+
+## Github Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/Vedantha-V-V)
