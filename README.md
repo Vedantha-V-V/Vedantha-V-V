@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantha-v-v&label=Profile%20views&color=0e75b6&style=flat" alt="vedantha-v-v" /> </p>
 
-- 🔭 I’m currently working on **AgroEye**
+- I’m currently working on **AgroEye**
 
-- 🌱 I’m currently learning **Kotlin**
+- I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [Vedantha's Portfolio](https://vedantha-portfolio.vercel.app/)
+- All of my projects are available at [Vedantha's Portfolio](https://vedantha-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,17 +36,14 @@
   <img alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </p>
 
-## Projects
+<h3 align="left">Projects:</h3>
+<br>
 
-<p align="left"><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/9cefb5d8-6e37-4e7b-a8e5-7f93a7a712b1" />  
-  <b><a href="https://github.com/Vedantha-V-V/artisanal-marketplace">Art To Cart</a></b> - Artisanal Marketplace</p>
-<p align="left"><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/ffa4f3af-fa3d-4809-8612-c8ba06b8ba89" />  
-  <b><a href="https://github.com/Vedantha-V-V/artisanal-marketplace">Debugzilla</a></b> - AI code reviewer</p>
-<p align="left"><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/33ef2b2f-9b08-415b-8f92-6f17b34e7a8d" />  
-  <b><a href="https://github.com/Vedantha-V-V/artisanal-marketplace">Movie Application</a></b> - Fullstack movie recommendation website</p>
-<p align="left"><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/c0932dd8-f71c-430a-95d1-3f31704ef3c2" />  
-  <b><a href="https://github.com/Vedantha-V-V/agriAssist">AgriAssist</a></b> - AI Farmer Advisory Application</p>
+- [**Art To Cart**](https://github.com/Vedantha-V-V/artisanal-marketplace) - Artisanal Marketplace
+- [**Debugzilla**](https://github.com/Vedantha-V-V/debugzilla) - AI code reviewer
+- [**Movie Application**](https://github.com/Vedantha-V-V/movie-app) - Fullstack movie recommendation website
+- [**AgriAssist**](https://github.com/Vedantha-V-V/agriAssist) - - AI Farmer Advisory Application
 
-## Github Activity
+<h2 align="left">Github Activity:</h2>
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Vedantha-V-V)
