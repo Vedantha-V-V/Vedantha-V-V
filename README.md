@@ -36,14 +36,6 @@
   <img alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </p>
 
-<h3 align="left">Projects:</h3>
-<br>
-
-- [**Art To Cart**](https://github.com/Vedantha-V-V/artisanal-marketplace) - Artisanal Marketplace
-- [**Debugzilla**](https://github.com/Vedantha-V-V/debugzilla) - AI code reviewer
-- [**Movie Application**](https://github.com/Vedantha-V-V/movie-app) - Fullstack movie recommendation website
-- [**AgriAssist**](https://github.com/Vedantha-V-V/agriAssist) - - AI Farmer Advisory Application
-
-<h2 align="left">Github Activity:</h2>
+<h3 align="left">Github Activity:</h3>
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Vedantha-V-V)
