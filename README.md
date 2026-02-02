@@ -32,7 +32,3 @@
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantha-v-v&show_icons=true&locale=en&layout=compact" alt="vedantha-v-v" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantha-v-v&show_icons=true&locale=en" alt="vedantha-v-v" /></p>
