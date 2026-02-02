@@ -34,15 +34,15 @@
 </p>
 <br>
 
-## Projects
+<h3 align="left">Projects</h3>
 
-- <p><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/9cefb5d8-6e37-4e7b-a8e5-7f93a7a712b1" />  
+<p align="left"><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/9cefb5d8-6e37-4e7b-a8e5-7f93a7a712b1" />  
   <b><a href="https://github.com/Vedantha-V-V/artisanal-marketplace">Art To Cart</a></b> - Artisanal Marketplace</p>
-- <p><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/ffa4f3af-fa3d-4809-8612-c8ba06b8ba89" />  
+<p align="left"><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/ffa4f3af-fa3d-4809-8612-c8ba06b8ba89" />  
   <b><a href="https://github.com/Vedantha-V-V/artisanal-marketplace">Debugzilla</a></b> - AI code reviewer</p>
-- <p><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/33ef2b2f-9b08-415b-8f92-6f17b34e7a8d" />  
+<p align="left"><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/33ef2b2f-9b08-415b-8f92-6f17b34e7a8d" />  
   <b><a href="https://github.com/Vedantha-V-V/artisanal-marketplace">Movie Application</a></b> - Fullstack movie recommendation website</p>
-- <p><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/c0932dd8-f71c-430a-95d1-3f31704ef3c2" />  
+<p align="left"><img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/c0932dd8-f71c-430a-95d1-3f31704ef3c2" />  
   <b><a href="https://github.com/Vedantha-V-V/agriAssist">AgriAssist</a></b> - AI Farmer Advisory Application</p>
 
 ## Github Activity
