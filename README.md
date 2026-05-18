@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
-<h1 align="center">Hi, I'm Vedantha Vinay Vernekar</h1>
+<h1 align="center">Hi, I'm Vedantha Vernekar</h1>
 <h3 align="center">Aspiring Data Scientist, Future Web Developer and Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWE5ZDg0M3F0b3B1NWIxYXl6N2ExYXhwem42eDZkODJnOHJwMTA4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 
